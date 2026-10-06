@@ -1,0 +1,175 @@
+{
+  "id": "d422f47d-bf07-4317-9260-7dd0038d4bec",
+  "name": "Salon API - Local",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:3000",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "adminEmail",
+      "value": "admin@salon.com",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "adminPassword",
+      "value": "Admin@123",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "c1Email",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "c2Email",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "customerToken",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "customer2Token",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "adminToken",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "customerId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "customer2Id",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "firstServiceId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "newServiceId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "staffId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "serviceId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "wrongServiceId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "newStaffId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "slotA",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "slotB",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "slotC",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "slotDate",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "slotStart",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "slotEnd",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "slotOverlapStart",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "slotOverlapEnd",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "newSlotId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "appointmentId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "appointment2Id",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "appointment3Id",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment"
+}
